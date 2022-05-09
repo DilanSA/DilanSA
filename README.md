@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="README.md">HOME</a> - <a href="works.html">WORKS</a> - <a href="repositories.html">REPOSITORIES</a> - <a href="blog.html">BLOG</a>
+    <a href="README.md">ABOUT ME</a> - <a href="works.html">WORKS</a> - <a href="repositories.html">REPOSITORIES</a> - <a href="blog.html">BLOG</a>
 </p>
 
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ... My name is Dilan Suárez Agüero! </h2>
