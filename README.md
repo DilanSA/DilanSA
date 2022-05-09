@@ -1,5 +1,9 @@
 [ABOUT ME](README.md) - [WORKS](works.md) - [REPOSITORIES](repositories.md) - [BLOG](blog.md)
 
+<p align="center">
+    <a href="README.md">ABOUT ME</a> - <a href="works.md">WORKS</a> - <a href="repositories.md">REPOSITORIES</a> - <a href="blog.md">BLOG</a>
+</p>
+
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ... My name is Dilan Suárez Agüero! </h2>
 <p align="center"><img width="700" src="img/grupal_vih.jpeg" /></p>
 
