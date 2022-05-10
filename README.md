@@ -35,19 +35,3 @@
     <img alt="iTOL" width="71" src="https://img.shields.io/badge/Bio-iTOL-important" />     
     <img alt="Recall" width="80" src="https://img.shields.io/badge/Bio-Recall-yellow" />   
 </p>
-
-## Favorite Plots
-
-<p align="center">
-    <img width="300" src="img/ChordPlot1.png" />
-    <img width="450" src="img/AreaPlot.png" />
-</p>
-
-## Favorite Places
-
-<p align="center"><img width="325" src="img/Nieva.png" /><img width="310" src="img/Maras.png" /></p>
-
-<p align="center"><img width="340" src="img/Bagua.png" /></p>
-
-<p align="center"><img width="325" src="img/Yungay.png" /><img width="252" src="img/Lamas.png" /></p>
-
