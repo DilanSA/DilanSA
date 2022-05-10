@@ -18,7 +18,7 @@
     <img alt="UseGalaxy" width="111" src="https://img.shields.io/badge/Bio-UseGalaxy-8F2BBA" />  
     <img alt="HyDRA Web" width="120" src="https://img.shields.io/badge/Bio-HyDRA%20Web-red" />
     <img alt="MegaX" width="85" src="https://img.shields.io/badge/Bio-MegaX-E10098" />   
-    <img alt="iTOL" width="70" src="https://img.shields.io/badge/Bio-iTOL-important" />     
+    <img alt="iTOL" width="71" src="https://img.shields.io/badge/Bio-iTOL-important" />     
     <img alt="Recall" width="80" src="https://img.shields.io/badge/Bio-Recall-yellow" />   
 </p>
 
