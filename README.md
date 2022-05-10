@@ -1,5 +1,7 @@
 [ABOUT ME](README.md) - [WORKS](works.md) - [REPOSITORIES](repositories.md) - [BLOG](blog.md)
 
+<p align="center"> <img width="70" src="img/ABOUT_ME.png"(README.md) /> <img width="70" src="img/WORKS.png"(works.md) /> <img width="80" src="img/REPOSITORIES.png"(repositorires.md) /> <img width="70" src="img/BLOG.png"(blog.md) /> </p>
+
 <p align="center"><img width="1100" src="img/Portada_perfil.png" /></p>
 
 <p> - 💼 Job: *Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú)*</p>
