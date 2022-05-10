@@ -1,5 +1,3 @@
-|   [ABOUT ME](README.md)  |  [WORKS](works.md)  |  [REPOSITORIES](repositories.md)  |  [BLOG](blog.md)  | 
-
 <p align="center"><img width="1100" src="img/Portada_perfil.png" /></p>
 
 <p>
