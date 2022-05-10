@@ -1,6 +1,6 @@
 [ABOUT ME](README.md) - [PLOTS](README.md#Plots) - [PLACES](README.md#Places) 
 
-##Me
+## Me
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ... My name is Dilan Suárez Agüero! </h2>
 <p align="center"><img width="700" src="img/grupal_vih.jpeg" /></p>
 
@@ -21,12 +21,12 @@
     <img alt="MegaX" src="https://img.shields.io/badge/Bio-iTOL-important" />     
     <img alt="Recall" src="https://img.shields.io/badge/Bio-Recall-yellow" />   
 </p>
-##*Plots*
+## Plots
 
 <p align="center"><img width="500" src="img/ChordPlot1.png" /><img width="650" src="img/AreaPlot.png" /></p>
 
  
-##*Peruvian magical places visited*
+## Peruvian magical places visited
 
 <p align="center"><img width="325" src="img/Nieva.png" /><img width="310" src="img/Maras.png" /></p>
 
