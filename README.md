@@ -26,7 +26,7 @@
 
 <p align="center"><img width="500" src="img/ChordPlot1.png" /><img width="650" src="img/AreaPlot.png" /></p>
 
-## Peruvian magical places visited
+## Places
 
 <p align="center"><img width="325" src="img/Nieva.png" /><img width="310" src="img/Maras.png" /></p>
 
