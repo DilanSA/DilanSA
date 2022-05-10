@@ -1,5 +1,18 @@
 |   [ABOUT ME](README.md)  |  [WORKS](works.md)  |  [REPOSITORIES](repositories.md)  |  [BLOG](blog.md)  | 
 
+<table class="default">
+
+  <tr>
+
+    <td>Celda 1</td>
+
+    <td>Celda 2</td>
+
+    <td>Celda 3</td>
+
+  </tr>
+    
+
 <p align="center"><img width="1100" src="img/Portada_perfil.png" /></p>
 
 <p>
