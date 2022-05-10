@@ -1,14 +1,28 @@
-||   [ABOUT ME](README.md)  ||  [WORKS](works.md)  ||  [REPOSITORIES](repositories.md)  ||  [BLOG](blog.md)  ||
+|   [ABOUT ME](README.md)  |  [WORKS](works.md)  |  [REPOSITORIES](repositories.md)  |  [BLOG](blog.md)  | 
 
 <p align="center"><img width="1100" src="img/Portada_perfil.png" /></p>
 
-<p> - 💼 Job: *Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú)*</p>
-<p> - 👨‍🔬 Research area of interest: *Viral Evolution and Public Health*</p>
-<p> - 👨‍💻 Computing areas of interest: *Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS)*</p>
 
-<p align="center"><img width="500" src="img/grupal_vih.jpeg" /></p>
+<p>
+    
+<img width="600" src="img/grupal_vih.jpeg" align="right"> 
 
-<p> - 💻 Softwares and Programs: </p>
+- 💼 Job: **Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú).**
+    
+- 👨‍🔬 Research area of interest: <br>
+    -**Viral Evolution** <br>
+    -**Public Health.**
+
+- 👨‍💻 Computing areas of interest: <br>
+    -**Bioinformatics (Genomics)** <br>
+    -**Analytics and Data Visualization** <br>
+    -**Geographic Information Systems (GIS)**
+
+</p>
+
+<p> 
+- 💻 Softwares and Programs: 
+</p>
 
 <p align="center">
     <img alt="Rstudio" width="78" src="https://img.shields.io/badge/-Rstudio-45b8d8?style=flat-square&logo=Rstudio&logoColor=white" />
