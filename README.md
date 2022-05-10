@@ -2,26 +2,25 @@
 
 <p align="center"><img width="1100" src="img/Portada_perfil.png" /></p>
 
-
 <p>
     
-<img width="600" src="img/grupal_vih.jpeg" align="right"> 
-
 - 💼 Job: **Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú).**
     
-- 👨‍🔬 Research area of interest: <br>
-    -**Viral Evolution** <br>
-    -**Public Health.**
+- 👨‍🔬 Research area of interest: **Viral Evolution and Public Health.**
 
-- 👨‍💻 Computing areas of interest: <br>
-    -**Bioinformatics (Genomics)** <br>
-    -**Analytics and Data Visualization** <br>
-    -**Geographic Information Systems (GIS)**
+- 👨‍💻 Computing areas of interest: **Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS).**
+</p>
+
+<p align="center">
+    
+<img width="600" src="img/grupal_vih.jpeg"> 
 
 </p>
 
 <p> 
-- 💻 Softwares and Programs: 
+    
+- 💻 Softwares and Programs:
+    
 </p>
 
 <p align="center">
@@ -37,11 +36,14 @@
     <img alt="Recall" width="80" src="https://img.shields.io/badge/Bio-Recall-yellow" />   
 </p>
 
-## Plots
+## Favorite Plots
 
-<p align="center"><img width="500" src="img/ChordPlot1.png" /><img width="650" src="img/AreaPlot.png" /></p>
+<p align="center">
+    <img width="300" src="img/ChordPlot1.png" />
+    <img width="450" src="img/AreaPlot.png" />
+</p>
 
-## Places
+## Favorite Places
 
 <p align="center"><img width="325" src="img/Nieva.png" /><img width="310" src="img/Maras.png" /></p>
 
