@@ -1,11 +1,11 @@
-[ABOUT ME](README.md) - [WORKS](works.md) - [REPOSITORIES](repositories.md) - [BLOG](blog.md)
+[ABOUT ME](README.md) - [PLOTS](README.md#Plots) - [PLACES](README.md#Places) 
 
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ... My name is Dilan Suárez Agüero! </h2>
 <p align="center"><img width="700" src="img/grupal_vih.jpeg" /></p>
 
-<p> - 💼 Job: **Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú)**</p>
-<p> - 👨‍🔬 Research area of interest: **Viral Evolution and Public Health**</p>
-<p> - 👨‍💻 Computing areas of interest: **Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS)**</p>
+<p> - 💼 Job: *Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú)*</p>
+<p> - 👨‍🔬 Research area of interest: *Viral Evolution and Public Health*</p>
+<p> - 👨‍💻 Computing areas of interest: *Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS)*</p>
 <p> - 💻 Softwares and Programs: </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 <h3> 
   
-  **Plots**
+  *Plots*
 
 </h3>
 
@@ -30,7 +30,7 @@
 
 <h3> 
   
-  **Peruvian magical places visited** 
+  *Peruvian magical places visited*
 
 </h3>
 <p align="center"><img width="325" src="img/Nieva.png" /><img width="310" src="img/Maras.png" /></p>
