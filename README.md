@@ -1,6 +1,6 @@
 |  [ABOUT ME](README.md) | [WORKS](works.md) | [REPOSITORIES](repositories.md) | [BLOG](blog.md) |
 
-<p align="center"> <a href="README.md"><img width="80" src="img/ABOUT_ME.png"(README.md)/></a> <a href="works.md"><img width="80" src="img/WORKS.png" /></a> <a href="repositories.md"><img width="93" src="img/REPOSITORIES.png" /></a> <a href="blog.md"><img width="80" src="img/BLOG.png" /></a> </p>
+<p align="center"> <a href="README.md"><img width="80" src="img/ABOUT_ME.png"/></a> <a href="works.md"><img width="80" src="img/WORKS.png" /></a> <a href="repositories.md"><img width="93" src="img/REPOSITORIES.png" /></a> <a href="blog.md"><img width="80" src="img/BLOG.png" /></a> </p>
 
 <p align="center"><img width="1100" src="img/Portada_perfil.png" /></p>
 
