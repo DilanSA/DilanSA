@@ -33,3 +33,4 @@
 <p align="center"><img width="340" src="img/Bagua.png" /></p>
 
 <p align="center"><img width="325" src="img/Yungay.png" /><img width="252" src="img/Lamas.png" /></p>
+
