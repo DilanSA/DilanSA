@@ -21,11 +21,11 @@
     <img alt="MegaX" src="https://img.shields.io/badge/Bio-iTOL-important" />     
     <img alt="Recall" src="https://img.shields.io/badge/Bio-Recall-yellow" />   
 </p>
+
 ## Plots
 
 <p align="center"><img width="500" src="img/ChordPlot1.png" /><img width="650" src="img/AreaPlot.png" /></p>
 
- 
 ## Peruvian magical places visited
 
 <p align="center"><img width="325" src="img/Nieva.png" /><img width="310" src="img/Maras.png" /></p>
