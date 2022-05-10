@@ -1,8 +1,6 @@
 [ABOUT ME](README.md) - [WORKS](works.md) - [REPOSITORIES](repositories.md) - [BLOG](blog.md)
 
-<p align="center">
-    <img width="1100" src="img/Encabezado.png" />
-</p>
+
 
 <p align="center"><img width="500" src="img/grupal_vih.jpeg" /></p>
 
