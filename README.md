@@ -3,12 +3,14 @@
 <p align="center"><img width="1100" src="img/Portada_perfil.png" /></p>
 
 <p>
+<ul>
     
-- 💼 Job: **Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú).**
+<li> 💼 Job: <b>Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú).</b></li>
     
-- 👨‍🔬 Research area of interest: **Viral Evolution and Public Health.**
+<li> 👨‍🔬 Research area of interest: <b>Viral Evolution and Public Health.</b></li>
 
-- 👨‍💻 Computing areas of interest: **Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS).**
+<li> 👨‍💻 Computing areas of interest: <b>Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS).</b></li>
+</ul>
 </p>
 
 <p align="center">
@@ -18,9 +20,9 @@
 </p>
 
 <p> 
-    
-- 💻 Softwares and Programs:
-    
+<ul>   
+<li> 💻 Softwares and Programs: </li>
+</ul>    
 </p>
 
 <p align="center">
