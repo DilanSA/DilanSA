@@ -3,9 +3,9 @@
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ... My name is Dilan Suárez Agüero! </h2>
 <p align="center"><img width="700" src="img/grupal_vih.jpeg" /></p>
 
-<p> - 💼 Job: **Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú)**</p>
-<p> - 👨‍🔬 Research area of interest: **Viral Evolution and Public Health**</p>
-<p> - 👨‍💻 Computing areas of interest: **Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS)**</p>
+<p> - 💼 Job: *Specialized Technical Analyst at the National Reference Laboratory for Respiratory Viruses of the National Institute of Health (Perú)*</p>
+<p> - 👨‍🔬 Research area of interest: *Viral Evolution and Public Health*</p>
+<p> - 👨‍💻 Computing areas of interest: *Bioinformatics (Genomics), Analytics and Data Visualization, Geographic Information Systems (GIS)*</p>
 <p> - 💻 Softwares and Programs: </p>
 
 <p align="center">
@@ -20,22 +20,15 @@
     <img alt="MegaX" src="https://img.shields.io/badge/Bio-iTOL-important" />     
     <img alt="Recall" src="https://img.shields.io/badge/Bio-Recall-yellow" />   
 </p>
-<h3> 
-  
-  **Plots**
 
-</h3>
+## Plots
 
 <p align="center"><img width="500" src="img/ChordPlot1.png" /><img width="650" src="img/AreaPlot.png" /></p>
 
-<h3> 
-  
-  **Peruvian magical places visited** 
+## Places
 
-</h3>
 <p align="center"><img width="325" src="img/Nieva.png" /><img width="310" src="img/Maras.png" /></p>
 
 <p align="center"><img width="340" src="img/Bagua.png" /></p>
 
 <p align="center"><img width="325" src="img/Yungay.png" /><img width="252" src="img/Lamas.png" /></p>
-
